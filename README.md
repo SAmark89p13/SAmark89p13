@@ -5,7 +5,7 @@
  
 • 🚀 I’m a **Data Scientist**
 
-• 📊 I studying a degree in **Software Engineering ** and I taking a course in ****
+• 📊 I studying a degree in **Software Engineering ** and I taking a course in **advanced mathematics**
 
 • 📖 I’m currently learning **Advanced Neural Network Architectures and Deployment of models in web and desktop applications**
 
