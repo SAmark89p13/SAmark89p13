@@ -31,11 +31,8 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
- <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="js" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <a href="https://menssorelsnowbootsbest.blogspot.com/2025/04/57-logo-of-java.html" target="_blank" rel="noreferrer">
+    <img src="(https://tse4.mm.bing.net/th?id=OIP.F7Gvy_aFbQJtioB1n7KqsQHaEL&pid=15.1)" alt="java" width="40" height="40"/>
   </a>
 </p>
 
